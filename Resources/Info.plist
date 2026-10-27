@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Islet</string>
+	<key>CFBundleExecutable</key>
+	<string>Islet</string>
+	<key>CFBundleIdentifier</key>
+	<string>dev.local.islet</string>
+	<key>CFBundleName</key>
+	<string>Islet</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.0</string>
+	<key>LSUIElement</key>
+	<true/>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>Islet controls Spotify and Music to show what's playing.</string>
+	<key>NSAudioCaptureUsageDescription</key>
+	<string>Islet processes system audio for the equalizer. Audio never leaves your Mac.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Islet shows when Bluetooth headphones connect and their battery level.</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>Islet shows today's events in the island.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Islet shows today's events in the island.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Islet uses the camera only for Face presence: locking your Mac when you walk away. Images never leave your Mac.</string>
+	<key>NSDesktopFolderUsageDescription</key>
+	<string>Islet saves screenshots to your Desktop.</string>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>Islet alerts you when a download finishes.</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSLocationUsageDescription</key>
+	<string>Islet shows the weather where you are.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Islet shows the weather where you are.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Islet listens for knocks (Knock to Control) when you turn it on. Audio is analysed on your Mac and never recorded.</string>
+	<key>NSRemindersFullAccessUsageDescription</key>
+	<string>Islet lets you add and check off reminders from the island.</string>
+	<key>NSRemindersUsageDescription</key>
+	<string>Islet lets you add and check off reminders from the island.</string>
+</dict>
+</plist>
