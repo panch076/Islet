@@ -1,4 +1,5 @@
 # Islet
+# buggy slop meant to replace that one app that decided that it wanted to go down the paywall route
 
 A free, open notch / Dynamic Island app for macOS 15+. On Macs without a notch it shows as a floating pill.
 
